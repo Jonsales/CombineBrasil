@@ -1,0 +1,437 @@
+<resources>
+    <string name="app_name">Combine Brasil</string>
+    <string name="facebook_app_id">424941101232356</string>
+    <string name="fb_login_protocol_scheme">fb424941101232356</string>
+
+    <string name="User">Usuário</string>
+    <string name="Password">Senha</string>
+    <string name="pswd_now">Senha atual</string>
+    <string name="pswd_new">Nova Senha</string>
+    <string name="pswd_comfirm">Confirme a Senha</string>
+    <string name="confirm_password">Confirme a senha</string>
+    <string name="Entrar">Entrar</string>
+    <string name="entrar_facebook">Entrar com o Facebook</string>
+    <string name="nao_inscrito">Não é inscrito?</string>
+    <string name="registre_se">Registre-se agora!</string>
+    <string name="register">Cadastrar</string>
+    <string name="menu">Menu</string>
+    <string name="register_facebook">Cadastrar com facebook</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="logando">Entrando na sua conta</string>
+    <string name="recording">Cadastrando usuário</string>
+    <string name="home">Home</string>
+    <string name="meu_perfil">Meu Perfil</string>
+    <string name="cadastrar_atleta">Cadastrar Atleta</string>
+    <string name="edit_team">Editar Equipe</string>
+    <string name="info_seletiva">Info. Seletiva</string>
+    <string name="update">Atualizar</string>
+    <string name="help">Ajuda</string>
+    <string name="exit_selective">Fechar Seletiva</string>
+    <string name="entre_seletiva">Entrar em uma seletiva</string>
+    <string name="codigo">Código</string>
+    <string name="enter_selective">Digite o código da seletiva para acessá-la como avaliador
+Caso não saiba o código pergunte ao administrador responsável que criou a seletiva.
+</string>
+    <string name="confirm">Confirmar</string>
+    <string name="chosse_time">escolher hora</string>
+    <string name="time_selective">Escolha a hora da seletiva</string>
+    <string name="filter_by">Filtrar por</string>
+    <string name="date_init">Data Início</string>
+    <string name="date_end">Data Fim</string>
+    <string name="create_selective">Criar seletiva</string>
+    <string name="create_team">Criar Time</string>
+    <string name="info_team">Informações do time</string>
+    <string name="team">Time</string>
+    <string name="participation">Participação como:</string>
+    <string name="selecionar_time">Selecionar Time</string>
+    <string name="selecionar_testes">Selecionar Testes</string>
+    <string name="add_time">Adicionar novo time</string>
+    <string name="proximo_passo">Próximo Passo</string>
+    <string name="update_teams">Atualizando equipes</string>
+    <string name="update_tests">Atualizando testes</string>
+    <string name="update_athletes">Atualizando atletas</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="local_selective">Local da Seletiva</string>
+    <string name="info_selective">Informações da seletiva</string>
+    <string name="verify_selective">Verificando seletiva</string>
+    <string name="revisao">Revisão</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="observacoes">Observações</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="aceitar_termos_de_uso">Aceitar Termos de Uso</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="termos_de_uso">Termos de Uso</string>
+    <string name="aceito">Aceito</string>
+    <string name="create_selective_success">Seletiva criada</string>
+    <string name="voltar_ao_menu">Voltar ao Menu</string>
+    <string name="go_to_selective">Ir para a seletiva</string>
+    <string name="title_tests">Os testes</string>
+    <string name="number_picker_formatter">0</string>
+    <string name="edit_selective_save_success">Seletiva editada com sucesso!</string>
+    <string name="text_tests_default">Você pode customizar sua seletiva, optando pelo número de testes que deseja e de acordo com sua necessidade.<p /><p />
+Para obter o relatório aplicado a Metodologia Combine Brasil é necessário selecionar 8 testes dentro das 3 categorias existentes.<p /><p />
+
+Testes Obrigatórios: Testes obrigatórios para que haja o relatório aplicado à Metodologia Combine Brasil;<p /><p />
+
+Testes Recomendados: Testes necessários para que haja o relatório completo, podendo optar entre uma opção ou outra dentre os testes irmãos;<p /><p />
+
+Testes adicionais: Testes que aumentam o conhecimento físico sobre os participantes, porém não são necessários para obter o relatório completo.
+    </string>
+    <string name="address_team">Endereço do time</string>
+    <string name="required">Campo obrigatório</string>
+    <string name="director">Nome do representante</string>
+    <string name="cortar">Cortar</string>
+    <string name="historic">Histórico</string>
+    <string name="results_tests">Resultados por Testes</string>
+    <string name="positions_player">Posições para o atleta</string>
+    <string name="test_required">Testes Obrigatórios</string>
+    <string name="test_recommended">Testes Recomendados</string>
+    <string name="test_additional">Testes Adicionais</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="inscrever">Inscreva-se e melhore suas seletivas</string>
+    <string name="testes">Testes</string>
+    <string name="result">Resultado</string>
+    <string name="first_result">Primeiro Resultado</string>
+    <string name="second_result">Segundo Resultado</string>
+    <string name="result_value">Insira o quantidade de repetições feitas</string>
+    <string name="first">Primeiro</string>
+    <string name="second">Segundo</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="salvar_dados">Salvar resultados</string>
+    <string name="inconclusive">Dado Incoclusivo</string>
+    <string name="time_teste">Com essa equipe você pode criar uma seletiva de teste para ver como o aplicativo funciona</string>
+
+    <string name="nome_opcional">Nome (Opcional)</string>
+    <string name="code_selective">Código da selectiva</string>
+    <string name="code_athlete">Código do atleta</string>
+    <string name="message_create_selective">Parabéns, sua seletiva foi criada com sucesso. Agora para que ela role, nós aqui do Combine Brasil, iremos analisa-lá e autoriza-lá. Se precisarmos de alguma informação faltando, fica esperto que a entraremos em contato, mas se tudo estiver certinho, já era, vamos lá descobrir o melhor do atleta!!!</string>
+
+    <string name="email_contact">E-mail para contato</string>
+    <string name="city">Cidade</string>
+    <string name="neighborhood">Bairro</string>
+    <string name="street">Rua</string>
+    <string name="state">Estado</string>
+    <string name="cpf">CPF</string>
+    <string name="address_add">Endereço (Opcional)</string>
+    <string name="address">Endereço </string>
+    <string name="phone">Telfone ex:(xx)xxxxx-xxxx</string>
+    <string name="position">Posição Desejável</string>
+    <string name="nascimento">Data de Nascimento</string>
+    <string name="date_selective">Data da Seletiva</string>
+    <string name="message_social_link">Para ficarmos sempre atualizados, queremos algum meio em mídia social do time (facebook, instagram, site, etc.)</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mês</string>
+    <string name="ano">Ano</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="tests">Testes</string>
+    <string name="players">Jogadores</string>
+    <string name="message">Mensagem</string>
+    <string name="qualification">Qualificação</string>
+    <string name="wingspan">Envergadura</string>
+    <string name="ok">Ok</string>
+    <string name="ready">Pronto</string>
+    <string name="search">Buscar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="choose_date">Escolher outra data</string>
+    <string name="update_ok">Tudo atualizado</string>
+    <string name="back_to_test">Voltar para o teste</string>
+    <string name="go_to_sync">Sincronizar teste</string>
+    <string name="close">Fechar</string>
+    <string name="edit_athlete">Editar atleta</string>
+    <string name="edit_selective">Editar Seletiva</string>
+    <string name="value_error">Valor inválido</string>
+    <string name="open_terms">O atleta deve aceitar o termos de serviço</string>
+    <string name="terms_title">TERMO DE RESPONSABILIDADE, CONDIÇOES FÍSICAS E USO DE IMAGEM</string>
+    <string name="save_Athletes">Salvar atletas</string>
+    <string name="alter_timer">Alterar tempo</string>
+    <string name="configure_timer">Altere o tempo do teste como desejar.</string>
+    <string name="minute">00</string>
+    <string name="save_test">Salvando teste</string>
+    <string name="updating">Atualizando</string>
+    <string name="admin_selective">Criador da Seletiva</string>
+    <string name="selective_pay">Cobrar Inscrição?</string>
+    <string name="selective_price">Preço da inscrição R$</string>
+    <string name="your_code">Código da seletiva</string>
+    <string name="ranking_selective">Ranking da Seletiva</string>
+    <string name="ranking_by_tests">Ranking por Testes</string>
+    <string name="ranking_by_positions">Ranking por Posições</string>
+    <string name="list_geral">Ver lista geral</string>
+    <string name="change_pswd">Trocar senha</string>
+    <string name="choose_image">Esolher imagem</string>
+    <string name="click_PDF">Clique para ver em PDF</string>
+    <string name="url_inscription_athlete">Link de Inscrição de atleta (segure para copiar)</string>
+    <string name="esqueci_minha_senha">Esqueci minha senha</string>
+    <string name="esqueci_o_codigo">Esqueci o Código</string>
+    <string name="insira_seu_email">Insira seu email para recuperar a senha</string>
+    <string name="altere_sua_senha">Altere sua senha</string>
+    <string name="insira_codigo_equipe">Insira o código da equipe para iniciar a criação da sua seletiva</string>
+    <string name="insira_email">Insira um e-mail dos representantes da equipe</string>
+    <string name="insira_codigo">Insira o Codigo</string>
+    <string name="mensagem_permissao_time">Você não possui permissão para editar o time</string>
+    <string name="mensagem_equipe_atualizada">Sua equipe foi atualizada com sucesso</string>
+
+
+    <string name="shared_code">Parabéns, sua seletiva foi criada com sucesso.
+        Para que outros auxiliem na sua seletiva clique no código acima e divulgue apenas para seus
+        avaliadores, assegurando a entrada de usuários não autorizados.
+        Enviamos ao seu e-mail de cadastrado o formulário para inscrição dos candidatos,
+        as inscrições feitas por ele estão vinculadas diretamente à essa seletiva,
+        verifique na sua caixa de entrada.
+    </string>
+
+
+    <!--
+    ************************************ MENSAGENS PADRÕES ************************************************
+    -->
+    <string name="carregando_testes">Os testes estão sendo carregados</string>
+    <string name="bem_vindo">Bem vindo ao Combine Brasil</string>
+
+    <string name="update_selective">Atualizando seletivas...</string>
+    <string name="search_historic">Aguarde, buscando seu histórico...</string>
+    <string name="sync_now">Os testes estão sendo sincronizados</string>
+    <string name="erro_dados_invalidos">Dados Inválidos</string>
+
+    <string name="add_account">Criando atleta</string>
+    <string name="qualification_message">Qualifique a atuação do atleta no teste.</string>
+    <string name="wingspan_message">Nos testes de salto vertical, é necessário a envergadura do atleta,
+        que consiste na altura entre os pés à mão do atleta acima da cabeça, com o seu braço totalmente esticado, como no exemplo abaixo: </string>
+    <string name="rating">Rendimento do atleta no exercício</string>
+    <string name="text_add_athlete">Para cadastrar um atleta, certifique-se que o atleta já fez o primeiro cadastro com o administrador. Após isso, informe o código de cadastro (código único que o administrador tem), e também o código do atleta, no qual o mesmo foi cadastrado pelo administrador, e informado após o cadastrado. Você também pode colocar o nome para visualizar mais facilmente na hora em que o atleta for realizar seus testes.</string>
+    <string name="not_find">
+                Ops... Não foi encontrado nenhum resultado para a busca. Talvez o atleta ainda não foi atualizado em seu celular.
+    </string>
+    <string name="search_null">Ops... Não foi encontrado nenhum resutltado para a busca.</string>
+    <string name="error_digit">Verifique se não há erro de digitação</string>
+    <string name="dicas">Pesquise por nome da seletiva ou do time.</string>
+    <string name="no_connection">Ops... &lt;br /&gt;Aparentemente seu aparelho está sem conexão com a internet. &lt;br /&gt;Tente se conectar novamente. </string>
+    <string name="click_update">Clique na tela para atualizar. </string>
+    <string name="no_data">Nada para mostrar por aqui... :)</string>
+
+    <string name="text_sync_athlete">Você cadastrou alguns atletas na seletiva, porém você estava sem conexão com a internet, e por esse motivo, os atletas não foram salvos.</string>
+    <!-- ******************************** ITENS MENUS ****************************************************
+    -->
+    <string name="order_by">Ordenar por</string>
+    <string name="name">Nome</string>
+    <string name="name_title">Nome da Seletiva</string>
+    <string name="price_selective">Preço da seletiva</string>
+    <string name="notes">Observações</string>
+    <string name="cep">CEP</string>
+    <string name="number">Número</string>
+    <string name="complement">Complemento</string>
+    <string name="social_link">Mídia Social</string>
+    <string name="code">Código</string>
+    <string name="date">Data</string>
+
+
+    <string name="team_name">Nome do Time</string>
+    <string name="modality">Modalidade</string>
+
+    <string name="create">Criar Atleta</string>
+
+
+    <string name="sync">Sincronizar</string>
+    <string name="tests_athletes">Testes e atletas</string>
+    <string name="about">Sobre o Combine</string>
+    <string name="results">Seus resultados</string>
+    <string name="test_done">Teste concluído!</string>
+    <string name="done">Feito</string>
+    <string name="exit">Sair</string>
+    <string name="filter">Filtros</string>
+    <string name="admin">Administrador</string>
+    <string name="avaliator">Avaliador</string>
+    <string name="aplicate">Aplicar</string>
+    <string name="filter_days">Organizar por dias:</string>
+    <string name="show_mode">Mostrar seletivas em que fui</string>
+    <!--
+    *********************************** TÍTULOS COMBINE **************************************************
+    -->
+    <string name="combine_tests">Combine Brasil - Testes</string>
+
+    <string name="lorem">Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo, Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo,Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo,Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo,Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo,Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo,Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo,Aenean placerat. In vulputate urna eu arcu. Aliquam erat volutpat. Suspendisse potenti.
+        Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula.
+        Mauris tincidunt sem sed arcu. Nunc posuere. Nullam lectus justo,</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sync">SyncActivity</string>
+    <string name="title_activity_timer">TimerActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_info_selective_create">InfoSelectiveCreateActivity</string>
+
+    <!-- TODO: Textos intros -->
+    <string name="title_tests_protocoleds">Testes protocolados</string>
+    <string name="title_verify_datas">Verifique os dados de atletas</string>
+    <string name="title_find_athletes">Ache fácilmente o atleta na fila</string>
+    <string name="title_evaluate">Avalie a perfomance</string>
+    <string name="title_datas_save">Dados armazenados na núvem</string>
+    <string name="title_report_done">Relatórios prontos</string>
+
+    <string name="text_tests_protocoleds">Você tem em suas mãos, testes de alto padrão que conseguirão avaliar o crescimento e qualificação dos atletas</string>
+    <string name="text_verify_datas">Não perca tempo, apenas verifique no app</string>
+    <string name="text_find_athletes">Encontre rapidamente os atletas que irão realizar sua seletiva</string>
+    <string name="text_evaluate">Além do resultado do teste para o atleta, avalie a perfomance de como ele executou o teste</string>
+    <string name="text_datas_save">Salve com seguranças os dados dos testes com conexão de internet</string>
+    <string name="text_report_done">Sua seletivas se tornam relatórios na palma da sua mão</string>
+
+
+    <string name="registered_athletes">Deseja verificar se existem novos atletas cadastrados?</string>
+    <string name="connection_required">É necessário conexão com a internet para atualizar</string>
+    <string name="no_athlete_upgrade">Nenhum atleta para atualizar</string>
+    <string name="error_trying_update">Erro ao tentar atualizar</string>
+    <string name="all_athletes_updated">Todos os atletas foram atualizados</string>
+    <string name="code_entered_invalid">O código inserido é inválido</string>
+    <string name="enter_team_code_continue">Insira o código da equipe para continuar</string>
+    <string name="need_internet_connection">Você precisa de uma conexão com internet para continuar</string>
+    <string name="emailed_representatives">O código foi enviado no email dos representantes da equipe</string>
+    <string name="are_you_offline">Você está offline, deseja salvar o usuário offline? Você deverá sincronizar com os outros avaliadores.</string>
+    <string name="accept_terms_use">Para continuar, é necessário que o atleta aceite os termos de uso.</string>
+    <string name="user_cpf_registered">CPF do usuário já esta cadastrado.</string>
+    <string name="email_alreadt_registered">E-mail do usuário já esta cadastrado.</string>
+    <string name="code_already_registered">Código já cadastrado.</string>
+    <string name="athlete_created">Atleta criado, o código do atleta é: {CODE_INSCRIPTION}. Informe aos outros avaliadores.</string>
+    <string name="not_registered_athlete">Atleta não cadastrado</string>
+    <string name="updated_athlete">Atleta atualizado</string>
+    <string name="athlete_successfully_registered">Atleta cadastrado com sucesso. O código do atleta é: {CODE_ATHLETE}</string>
+    <string name="january">Janeiro </string>
+    <string name="february">Fevereiro </string>
+    <string name="march">Março </string>
+    <string name="april">Abril </string>
+    <string name="may">Maio </string>
+    <string name="june">Junho </string>
+    <string name="july">Julho  </string>
+    <string name="august">Agosto  </string>
+    <string name="september">Setembro  </string>
+    <string name="octomber">Outubro  </string>
+    <string name="november">Novembro  </string>
+    <string name="december">Dezembro </string>
+    <string name="error_trying_positions">Erro ao tentar configurar posições</string>
+    <string name="invalid_data_continue">Dados inválidos, por favor, verifique para continuar.</string>
+    <string name="alert">Alerta </string>
+    <string name="invalid_birth_day">Dia de nascimento inválido </string>
+    <string name="invalid_birth_month">Mês de nascimento inválido</string>
+    <string name="desired_position">Selecione uma posição desejada </string>
+    <string name="uploading_image">Fazendo upload de imagem.</string>
+    <string name="date_greater_current_date">A data selecionada deve ser maior que a data atual.</string>
+    <string name="second_date_larger_first_date">A segunda deve ser maior que a primeira selecionada. </string>
+    <string name="third_greater_second">A terceira deve ser maior que a segunda selecionada. </string>
+    <string name="selective_testing">Seletiva Teste </string>
+    <string name="select_mode">Selecione uma modalidade </string>
+    <string name="creating_team">Criando seu time...</string>
+    <string name="team_created_successfully">Equipe criada com sucesso. Iremos analisar a equipe criada em nosso sistema, e retornar nos contatos.</string>
+    <string name="team_already_registered">O time {TEAM} já está cadastrado no Combine Brasil</string>
+    <string name="error_creating_team">Erro ao criar a equipe</string>
+    <string name="must_fill_least_city">Você deve preencher pelo menos a cidade </string>
+    <string name="location_city">Localizando cidade...</string>
+    <string name="finding">Localizando... </string>
+    <string name="locatin_street">Localizando rua...</string>
+    <string name="locating_neighborhood">Localizando bairro...</string>
+    <string name="quit_test">Tem certeza que deseja sair e abandonar o teste?</string>
+    <string name="sync_internet_connection">Para começar a sincronização, você precisa ter uma conexão com a internet.</string>
+    <string name="results_saved">Os resultados foram salvos!</string>
+    <string name="test_deleted">Teste excluído! </string>
+    <string name="not_have_permission_edit">Você não tem permissão para editar a seletiva </string>
+    <string name="invalid_data_check_continue">Dados inválidos, por favor, verifique para continuar. </string>
+    <string name="checking_team_information">Verificando informações do time</string>
+    <string name="checking_athlete_results">Verificando resultados do atleta... </string>
+    <string name="configuring_user_selective">Configurando usuário na seletiva... </string>
+    <string name="no_internet_connection">Sem conexão com a internet </string>
+    <string name="invalid_user_password">Usuário ou senha inválida  </string>
+    <string name="please_continue">Seu usuário não existe, crie seu usuário para continuar.</string>
+    <string name="enter_valid_user">Insira um usuário válido</string>
+    <string name="enter_valid_password">Insira uma senha válida </string>
+    <string name="email_retrieve_password">Insira seu e-mail para recuperar a senha</string>
+    <string name="password_your_email">Enviamos uma nova senha no seu e-mail </string>
+    <string name="could_not_complete">Não foi possível completar </string>
+    <string name="trial_verision_expired">A sua versão de teste expirou. </string>
+    <string name="code_not_exist">O código inserido não existe.</string>
+    <string name="congratulations_selective">Parabéns, você acaba de entrar na </string>
+    <string name="password_change">As senhas devem ser iguais para alterar </string>
+    <string name="password_changed_successfully">Senha alterada com sucesso </string>
+    <string name="password_not_change">Não foi possível alterar sua senha</string>
+    <string name="congratulations_evaluate_selective">Parabéns, você foi convocado para avaliar na {seletiva} , na(s) data(s) {date_selective}. Baixe o aplicativo Combine Brasil Analytics na GooglePlay e logue na seletiva utilizando o código: {CODE}.Para maiores informações, entre em contato com o representante do Combine Brasil - Descobrindo o melhor do atleta http://combinebrasil.com/</string>
+    <string name="link_copied">Link copiado </string>
+    <string name="code_copied">Código copiado </string>
+    <string name="results_saveds">Os resultados foram salvos </string>
+    <string name="congratulations_evaluate">Parabéns, você foi convocado para avaliar na {seletiva}, na(s) data(s) {date_selective}. Baixe o aplicativo Combine Brasil Analytics na GooglePlay. https://play.google.com/store/apps/details?id=br.com.john.combinebrasil. Logue na seletiva utilizando o código: {CODE}. Para maiores informações, entre em contato com o representante da equipe {EQUIPE}. Combine Brasil – Descobrindo o melhor do atleta http://combinebrasil.com/</string>
+    <string name="comments">Observações </string>
+    <string name="recommend_tests">Testes Recomendados </string>
+    <string name="required_tests">Testes Obrigatórios</string>
+    <string name="additional_tets">Testes Adicionais </string>
+    <string name="reports_complete_results">Relatórios com resultados completos </string>
+    <string name="no_test_selected">Nenhum teste selecionado </string>
+    <string name="report_partial_results">Relatório com resultados parciais </string>
+    <string name="timer_completed">O timer foi concluído, insira o resultado do atleta.</string>
+    <string name="invalid_time">Tempo inválido, não pode-se começar o timer em 00:00.</string>
+    <string name="number_save">Insira a quantidade de repetições para salvar </string>
+    <string name="declare_proper">Declaro  para os devidos fins de direito  e ciência que:</string>
+    <string name="participate_selective">Declaro  para os devidos fins de direito  e ciência que: 1. Participarei da seletiva e se caso selecionado, dos treinos e jogos de Futebol Americano e estou em pleno gozo de saúde e em condições de participar da seletiva, treinos e jogos, não apresentando qualquer tipo de impedimento ou restrição à prática e atividades físicas e esportivas. 2.Assumo, todos os riscos e responsabilidade legal das minhas ações envolvidas na participação da seletiva, dos treinos e jogos. Isentando o time, comissão técnica e organizadora, colaboradores e patrocinadores DE TODA E QUALQUER RESPONSABILIDADE por quaisquer danos materiais, morais ou físicos, que porventura venha a sofrer ou provocar. 3.Em caso de lesões do atleta, será acionado o serviço de atendimento médico da rede pública para atender o ocorrido. O atleta ou o seu (sua) acompanhante poderá decidir pelo atendimento, remoção ou transferência para hospitais da rede privada de saúde, eximindo de qualquer responsabilidade, o time, comissão técnica e organizadora, colaboradores e patrocinadores de ônus pelas despesas decorrentes deste atendimento. 5. Concedo, a título universal e de forma irrevogável e irretratável, o direito de usar minha imagem, voz, sons a serem captados na seletiva, treinos e jogos, para usos informativos, promocionais ou publicitários , sem acarretar nenhum ônus ao time, comissão organizadora e aos parceiros. Renunciando o recebimento de qualquer renda que vier a ser auferida com tais direitos em qualquer tempo/data, sendo os direitos reservados ao time e comissão organizadora. 6. Poderá o time solicitar ao atleta, exame médicos periódicos para os treinos e jogos, se caso não for realizado e apresentado, ficará então este exame substituído  por este TERMOS DE RESPONSABILIDADE, eximindo o time e assumindo o atleta suas consequências. 7. Fica eleito o foro da cidade de São Jose dos Campos, preterido qualquer outro, por mais privilegiado que seja, para dirimir quaisquer questões oriundas deste Termo de Responsabilidade.</string>
+    <string name="customize_your_selection">Você pode customizar sua seletiva, optando pelo número de testes que deseja e de acordo com sua necessidade. </string>
+    <string name="obtain_report">Para obter o relatório aplicado a Metodologia Combine Brasil é necessário selecionar 8 testes dentro das 3 categorias existentes. </string>
+    <string name="required_tests_text"> Testes Obrigatórios: Testes obrigatórios para que haja o relatório aplicado à Metodologia Combine Brasil;</string>
+    <string name="recommended_tests_text">Testes Recomendados: Testes necessários para que haja o relatório completo, podendo optar entre uma opção ou outra dentre os testes irmãos; </string>
+    <string name="additional_tests_text">Testes adicionais: Testes que aumentam o conhecimento físico sobre os participantes, porém não são necessários para obter o relatório completo.;</string>
+    <string name="deleted_test">Ao sair todos os dados serão excluídos do aplicativo, deseja realmente sair?</string>
+    <string name="exit_selective_really">Do you really want to leave the selective?</string>
+    <string name="api_unavailable">API indisponível </string>
+    <string name="try_again_later">Tente novamente mais tarde</string>
+    <string name="editing_athlete">Editando atleta</string>
+    <string name="warning">Aviso</string>
+    <string name="completed">Concluído</string>
+    <string name="erro_register">Erro ao cadastrar</string>
+    <string name="saved">Salvo</string>
+    <string name="error">Erro</string>
+    <string name="error_send_code">Erro ao enviar o código</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="editing_team">Editando sua equipe</string>
+    <string name="born_in">Nascido em: </string>
+    <string name="live">Mora</string>
+    <string name="checking_athletes">Verificando Atletas</string>
+    <string name="checking_tests">Verificando Testes</string>
+    <string name="athlete">Atleta</string>
+    <string name="posicao">Posição</string>
+    <string name="creating_selective">Criando sua Seletiva</string>
+    <string name="accept_terms_selective">Para criar a seletiva, você deve aceitar os termos de uso.</string>
+    <string name="creating_tests_selective">Criando Testes da seletiva</string>
+    <string name="confinguring_using_selective">Configurando usuário na seletiva</string>
+    <string name="login">Fazer Login</string>
+    <string name="athletes_enrolled">atletas inscritos</string>
+    <string name="charged_per_registration">Foi cobrado R$ {quantidade} reais por inscrição</string>
+    <string name="free_subscriptions">Inscrições gratuitas</string>
+    <string name="click_to_share">Clique para compartilhar</string>
+    <string name="user_not_create">Usuário não cadastrado</string>
+    <string name="email_registered">E-mail já está cadastrado</string>
+    <string name="position_desired">Posição desejada</string>
+    <string name="erro_sync_tests">Erro ao tentar sincronizar teste</string>
+    <string name="jump_too_high">Ops, o salto está muito alto, verifique e tente novamente</string>
+    <string name="save">Salvar</string>
+    <string name="save_results">Deseja salvar o resultado?</string>
+    <string name="delete">Deletar</string>
+    <string name="delete_test_current">Deseja excluir os dados do teste atual?</string>
+    <string name="want_leave_test">Deseja sair no meio do teste?</string>
+    <string name="test_protocol">Teste protocolado Combine Brasil</string>
+    <string name="position_indicated">Posição Indicada</string>
+    <string name="test_matched_to">Teste igualado ao</string>
+    <string name="customize_your_tests">Você pode customizar sua seletiva, optando pelo número de testes que deseja e de acordo com sua necessidade.{BREAK} Para obter o relatório aplicado a Metodologia Combine Brasil é necessário selecionar 8 testes dentro das 3 categorias existentes.{BREAK}         Testes Obrigatórios: Testes obrigatórios para que haja o relatório aplicado à Metodologia Combine Brasil;{BREAK}         Testes Recomendados: Testes necessários para que haja o relatório completo, podendo optar entre uma opção ou outra dentre os testes irmãos;{BREAK}         Testes adicionais: Testes que aumentam o conhecimento físico sobre os participantes, porém não são necessários para obter o relatório completo.</string>
+    <string name="terms_of_use">Declaro  para os devidos fins de direito  e ciência que:{BREAKLINE}{BREAKLINE}1. Participarei da seletiva e se caso selecionado, dos treinos e jogos de Futebol Americano e estou em pleno gozo de saúde e em condições de participar da seletiva, treinos e jogos, não apresentando qualquer tipo de impedimento ou restrição à prática e atividades físicas e esportivas.{BREAKLINE}{BREAKLINE}2.Assumo, todos os riscos e responsabilidade legal das minhas ações envolvidas na participação da seletiva, dos treinos e jogos. Isentando o time, comissão técnica e organizadora, colaboradores e patrocinadores DE TODA E QUALQUER RESPONSABILIDADE por quaisquer danos materiais, morais ou físicos, que porventura venha a sofrer ou provocar.{BREAKLINE}{BREAKLINE}3.Em caso de lesões do atleta, será acionado o serviço de atendimento médico da rede pública para atender o ocorrido. O atleta ou o seu (sua) acompanhante poderá decidir pelo atendimento, remoção ou transferência para hospitais da rede privada de saúde, eximindo de qualquer responsabilidade, o time, comissão técnica e organizadora, colaboradores e patrocinadores de ônus pelas despesas decorrentes deste atendimento. {BREAKLINE}{BREAKLINE}5. Concedo, a título universal e de forma irrevogável e irretratável, o direito de usar minha imagem, voz, sons a serem captados na seletiva, treinos e jogos, para usos informativos, promocionais ou publicitários , sem acarretar nenhum ônus ao time, comissão organizadora e aos parceiros. Renunciando o recebimento de qualquer renda que vier a ser auferida com tais direitos em qualquer tempo/data, sendo os direitos reservados ao time e comissão organizadora.{BREAKLINE}6. Poderá o time solicitar ao atleta, exame médicos periódicos para os treinos e jogos, se caso não for realizado e apresentado, ficará então este exame substituído  por este TERMOS DE RESPONSABILIDADE, eximindo o time e assumindo o atleta suas consequências.{BREAKLINE}{BREAKLINE}7. Fica eleito o foro da cidade de São Jose dos Campos, preterido qualquer outro, por mais privilegiado que seja, para dirimir quaisquer questões oriundas deste Termo de Responsabilidade.</string>
+    <string name="informacoes_seletiva">Informações da seletiva</string>
+    <string name="rel_PDF">Relatório em PDF</string>
+    <string name="rel_athlete">Relatório por atleta</string>
+</resources>

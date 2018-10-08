@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.john.combinebrasil">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreenActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AthletesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CreateAccountAthleteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetailsAthletes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TimerActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".CronometerOnlyOneActivity" />
+        <activity android:name=".ResultsOnlyOneActivity" />
+        <activity
+            android:name=".IntroActivity"
+            android:theme="@style/AppThemeDark" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".MenuActivity" />
+        <activity
+            android:name=".CreateSelectiveActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".CreateTeamActivity" />
+        <activity
+            android:name=".EnterSelectiveActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".SelectiveDetailsActivity" />
+        <activity android:name=".TestSelectiveActivity" />
+        <activity android:name=".HistoricSelectiveActivity" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="424941101232356" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="Combine Brasil" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="fb424941101232356" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ChooseTeamSelectiveActivity" />
+        <activity
+            android:name=".LocalSelectiveActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".InfoSelectiveCreateActivity"
+            android:label="@string/title_activity_info_selective_create"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".SelectiveCreatedSuccessActivity" />
+        <activity android:name=".MenuHistoricSelectiveActivity" />
+        <activity android:name=".HistoricPlayersSelectiveActivity" />
+        <activity android:name=".HistoricPlayerActivity" />
+        <activity android:name=".HistoricRankingTestsActivity" />
+        <activity android:name=".HistoricRankingPositionsActivity" />
+        <activity android:name=".PerfilUserActivity" />
+        <activity android:name=".EditSelectiveActivity" />
+        <activity android:name=".EditTeamActivity"></activity>
+    </application>
+
+</manifest>
